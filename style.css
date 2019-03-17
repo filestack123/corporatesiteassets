@@ -1,14 +1,3 @@
-/* ===========================================================================
-
-Template Name : UNIKO - Personal and Portfolio HTML5 Template;
-Author : Unicoder;
-Email: unicoder16@gmail.com
-Developed By : Agun Mondol;
-Version : 1.0.1
-Last Update : 12th June, 2017
-
-=========================================================================== */
-
 
 /*=========================================================================
 Table of CSS Content
@@ -998,7 +987,7 @@ img{
 	line-height:38px
 }
 .testimonials-carousel.owl-theme .owl-controls .owl-nav [class*="owl-"]:hover{
-	background:#f7465b;
+	background:#8c6500;
 	color:#FFF
 }
 .testimonial_area .owl-nav{
@@ -1448,7 +1437,7 @@ img{
 	margin:0 5px
 }
 .banar-sub-title span a{
-	color:#f7465b
+	color:#8c6500
 }
 .section-title {
 	position:relative;
