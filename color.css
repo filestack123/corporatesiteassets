@@ -4,7 +4,7 @@
 	color:#2a2a2a
 }
 .title:after{
-	background:#f7465b
+	background:#8c6500
 }
 .sub-title{
 	color:#5a5a5a
@@ -14,7 +14,7 @@
 
 .btn-default{
 	color:#fff;
-	background:#f7465b;
+	background:#8c6500;
 	transition:all 0.3s ease;
 	-webkit-transition:all 0.3s ease;
 	-ms-transition:all 0.3s ease;
@@ -23,7 +23,7 @@
 }
 .btn-submit, .form_button input[type="submit"]{
 	color:#fff;
-	background:#f7465b;
+	background:#8c6500;
 	transition:all 0.3s ease;
 	-webkit-transition:all 0.3s ease;
 	-ms-transition:all 0.3s ease;
@@ -32,29 +32,29 @@
 }
 .btn-default:hover{
 	background:#fff;
-	color:#f7465b
+	color:#8c6500
 }
 .btn-submit:hover, .form_button input[type="submit"]:hover{
 	background:#fff;
-	color:#f7465b
+	color:#8c6500
 }
 .form_button input[type="submit"]:hover{
 	background:#fff;
-	color:#f7465b !important
+	color:#8c6500 !important
 }
 .btn-primary.focus, .btn-primary:focus {
 	color: #fff;
-	background-color: #f7465b;
-	border-color: #f7465b
+	background-color: #8c6500;
+	border-color: #8c6500
 }
 .btn-primary.active, .btn-primary:active, .open>.dropdown-toggle.btn-primary {
 	color: #fff;
-	background-color: #f7465b;
-	border-color: #f7465b
+	background-color: #8c6500;
+	border-color: #8c6500
 }
 .btn-primary{
-	color:#f7465b;
-	border: 2px solid #f7465b;
+	color:#8c6500;
+	border: 2px solid #8c6500;
 	background:#fff;
 	transition:all 0.3s ease;
 	-webkit-transition:all 0.3s ease;
@@ -64,8 +64,8 @@
 }
 .btn-primary:hover{
 	color:#fff;
-	border: 2px solid #f7465b;
-	background:#f7465b
+	border: 2px solid #8c6500;
+	background:#8c6500
 }
 .btn-secondary{
 	color:#2a2a2a;
@@ -83,7 +83,7 @@
 .arrow_btn:hover{
 	border:1px solid #FFFFFF;
 	background:#FFF;
-	color:#f7465b
+	color:#8c6500
 }
 
 /* white */
@@ -116,10 +116,10 @@
 	-moz-transition:all 0.3s ease
 }
 .navbar-nav li a:hover{
-	color:#f7465b
+	color:#8c6500
 }
 .nav-tabs>li>a:hover {
-	background-color: #f7465b;
+	background-color: #8c6500;
 	color:#FFF
 }
 
@@ -129,7 +129,7 @@
 	color:#f4eded
 }
 .slider-title span{
-	color:#f7465b
+	color:#8c6500
 }
 .slider-sub-title{
 	color:#fff
@@ -144,7 +144,7 @@
 	color:#2f2e2e
 }
 .social_icon li:hover{
-	background:#f7465b
+	background:#8c6500
 }
 .social_icon li:hover a{
 	color:#ffffff
@@ -159,7 +159,7 @@
 	background:#2f2e2e
 }
 .self-tab-active{
-	color:#f7465b
+	color:#8c6500
 }
 .nav-tabs > li > a{
 	background:#fff
@@ -180,7 +180,7 @@
 	background:#eeeeee
 }
 .skill_percent{
-	background:#f7465b
+	background:#8c6500
 }
 .skill_per > h6{
 	color:#2a2a2a
@@ -201,7 +201,7 @@
 	background:#fff
 }
 .srv-box:hover{
-	background:#f7465b;
+	background:#8c6500;
 	transition:all 0.3s ease;
 	-moz-transition:all 0.3s ease;
 	-ms-transition:all 0.3s ease;
@@ -226,7 +226,7 @@
 /* portfolio section */
 
 .default-portfolio-item .overlay-box{
-	background:#f7465b
+	background:#8c6500
 }
 .default-portfolio-item .overlay-box h5{
 	color:#fff
@@ -243,7 +243,7 @@
 .gallery-section .filter-btns li:hover,
 .gallery-section .filter-btns li.active{
 	color:#fff;
-	background:#f7465b	
+	background:#8c6500	
 }
 .inner-content .content h6{
 	color:#fff
@@ -275,10 +275,10 @@
 	color:#fff
 }
 .member h6{
-	color:#f7465b
+	color:#8c6500
 }
 .member:hover .social_icon li:hover{
-	background:#f7465b
+	background:#8c6500
 }
 .member:hover .social_icon li a:hover{
 	color:#fff
@@ -290,7 +290,7 @@
 	color:#2a2a2a
 }
 .ellipse{
-	background:#f7465b
+	background:#8c6500
 }
 .quote{
 	color:#fff
@@ -308,7 +308,7 @@
 	background:#2a2a2a
 }
 .test_arrow:hover{
-	background:#f7465b
+	background:#8c6500
 }
 .test_arrow i{
 	color:#fff
@@ -332,13 +332,13 @@
 	background:#cfcfcf
 }
 .blog_grid:hover h4, .blog_grid:hover .btn-secondary{
-	color:#f7465b
+	color:#8c6500
 }
 .overlay h1{
-	color:#f7465b
+	color:#8c6500
 }
 .comment{
-	color:#f7465b
+	color:#8c6500
 }
 .read{
 	color:#2a2a2a
@@ -360,7 +360,7 @@
 	color:#201f1f
 }
 .plan:hover .plan_head, .plan:hover .black{
-	background:#f7465b
+	background:#8c6500
 }
 .plan:hover h3, .plan:hover h5{
 	color:#fff
@@ -369,7 +369,7 @@
 /* experience color */
 
 #experience{
-	background:#f7465b
+	background:#8c6500
 }
 .experience_area h1, .experience_area h5{
 	color:#FFF;
@@ -380,7 +380,7 @@
 	-webkit-transition:all 0.3s ease
 }
 .experience_area:hover h1, .experience_area:hover h5{
-	color:#f7465b
+	color:#8c6500
 }
 .experience_area:hover{
 	background:#fff
@@ -393,7 +393,7 @@
 	background:#c9c9c9
 }
 .brand_area ul li a:hover{
-	background:#f7465b
+	background:#8c6500
 }
 
 /* contact color */
@@ -427,7 +427,7 @@ label.error {
 }
 .adress:hover i{
 	color:#fff;
-	background:#f7465b
+	background:#8c6500
 }
 .adress span{
 	color:#fff
@@ -455,10 +455,10 @@ label.error {
 	background: rgba(0, 0, 0, 0.3)
 }
 .post-date, .loder-overlay{
-	background:#f7465b
+	background:#8c6500
 }
 .section-title:after{
-	background:#f7465b
+	background:#8c6500
 }
 .date h6, .date h3, .year h5{
 	color:#fff
@@ -471,7 +471,7 @@ label.error {
 	color:#2a2a2a
 }
 .blog-list:hover .post-text h5 a, .blog-list:hover a.btn-secondary{
-	color:#f7465b;
+	color:#8c6500;
 	transition:all 0.3s ease;
 	-moz-transition:all 0.3s ease;
 	-ms-transition:all 0.3s ease;
@@ -485,7 +485,7 @@ label.error {
 /* pagination color */
 
 .pagenation ul li{
-	border: 1px solid #f7465b;
+	border: 1px solid #8c6500;
 	transition:all 0.3s ease;
 	-moz-transition:all 0.3s ease;
 	-ms-transition:all 0.3s ease;
@@ -493,7 +493,7 @@ label.error {
 	-webkit-transition:all 0.3s ease
 }
 .pagenation ul li a{
-	color:#f7465b;
+	color:#8c6500;
 	transition:all 0.3s ease;
 	-moz-transition:all 0.3s ease;
 	-ms-transition:all 0.3s ease;
@@ -501,8 +501,8 @@ label.error {
 	-webkit-transition:all 0.3s ease
 }
 .pagenation ul li:hover, .pagenation ul li.active{
-	background:#f7465b;
-	border:1px solid #f7465b;
+	background:#8c6500;
+	border:1px solid #8c6500;
 	color:#fff
 }
 .pagenation ul li:hover a, .pagenation ul li.active a{
@@ -529,7 +529,7 @@ label.error {
 	-webkit-transition:all 0.3s ease
 }
 .recent-post ul li a:hover, .category ul li a:hover, .archive ul li a:hover, .recent-comments li a:hover, .recent-comments li a:hover{
-	color:#f7465b
+	color:#8c6500
 }
 .recent-post span{
 	color:#aaa
@@ -541,13 +541,13 @@ label.error {
 
 blockquote{
 	background:#eee;
-	border-left:3px solid #f7465b
+	border-left:3px solid #8c6500
 }
 .member-social ul li{
 	background:#2a2a2a
 }
 .member-social ul li:hover{
-	background:#f7465b
+	background:#8c6500
 }
 .member-social ul li a{
 	color:#fff
@@ -570,7 +570,7 @@ blockquote{
 	color:#aaa
 }
 .coments_time a{
-	color:#f7465b
+	color:#8c6500
 }
 .coment{
 	border-top:1px solid #ccc
@@ -579,7 +579,7 @@ blockquote{
 	color:#5a5a5a
 }
 .post-text .admin span i{
-	color:#f7465b;
+	color:#8c6500;
 	margin-right:5px
 }
 .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover{
